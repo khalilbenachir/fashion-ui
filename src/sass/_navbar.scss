@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    align-items: center;
+
+    & div{
+        padding: 0 30px;
+        font-size: 20px;
+    }
+
+    .menu{
+        margin-right: auto;
+    }
+
+    .lang{
+        font-size: 12px;
+        font-weight: 600;
+        text-transform: uppercase;
+        font-weight: 400;
+        
+    }
+
+}
+
